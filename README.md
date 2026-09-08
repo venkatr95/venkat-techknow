@@ -151,4 +151,3 @@ See [`test-chart-http-interface/README.md`](test-chart-http-interface/README.md)
 
 - Subfolders are largely **independent**; each has its own deps and (where present) local README.
 - Prefer per-project docs linked above for install and run details.
-- Some examples target Linux/POSIX sockets or Windows-only scripts; check the folder README before running.
