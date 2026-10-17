@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "compression": "^1.8.1",
+    "compression": "^1.8.2",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "react": "^19.1.0",
